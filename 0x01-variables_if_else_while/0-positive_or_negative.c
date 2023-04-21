@@ -3,12 +3,13 @@
 #include <stdio.h>
 
 /**
- * main - assigns a random number to variable n, and prints whether the number is positive or negative.
+ * main - Check if a number.
  * @void: Null value
  *
  * Description: Print if a number is positive, negative or zero
- * Return: Zero on success
+ * Return: Zero value
  */
+
 int main(void)
 {
 	int n;
