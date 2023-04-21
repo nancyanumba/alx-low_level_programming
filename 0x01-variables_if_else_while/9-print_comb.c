@@ -4,7 +4,7 @@
  * main- Entry point
  * @void: Null value
  *
- * Description: program to Print numbers from 0 to 9 separated by comma and space
+ * Description: program to Print numbers from zero to nine  separated by comma and space
  * Return: Zero value
  */
 
