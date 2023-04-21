@@ -4,7 +4,7 @@
  * main - Entry point
  * @void: Null value
  *
- * Description: program to prints all single digit numbers from ten to zero, followed by a new line
+ * Description: program to print single digit numbers from ten to zero
  * Return: Zero value
  */
 
