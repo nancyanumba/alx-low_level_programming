@@ -4,8 +4,8 @@
  * main - Entry point
  * @void: Null value
  *
- * Description: program that prints the alphabet in lowercase, followed by a new line
- * Return: Zero value
+ * Description: program that prints the alphabet in lowercase
+ * Return: Zero
  */
 
 int main(void)
